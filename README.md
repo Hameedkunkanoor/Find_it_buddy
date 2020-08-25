@@ -22,3 +22,8 @@ To do :
  
  
  
+ 
+ for writing new post use https://dev.to/new this ui to create new post for now.
+ also suggest one example about how to write a new blog.
+ 
+ 
