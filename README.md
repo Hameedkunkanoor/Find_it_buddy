@@ -21,9 +21,11 @@ To do :
  3.make changes to post details page
  
  
- 
+ Suggestion for adding new blog :
  
  for writing new post use https://dev.to/new this ui to create new post for now.
  also suggest one example about how to write a new blog.
  
+ 
+ Whenever the systemis offline the dev.to website is having canvas where we can draw anything 
  
